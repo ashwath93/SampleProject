@@ -1,5 +1,5 @@
 //
-//  UIViewController+MKMapViewDelegate.swift
+//  ViewController+MKMapViewDelegate.swift
 //  testApp
 //
 //  Created by Turvo on 24/08/18.
